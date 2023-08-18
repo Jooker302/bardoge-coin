@@ -158,11 +158,13 @@ export default function Home() {
         <h2 class="text-3xl font-semibold mb-8">Meet Our Partners</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div class=" rounded-lg shadow-md p-6 bg-[#DE7596]">
+            <a href="https://dx.app">
             <img
               src="dxsale.png"
               alt="Team Member 1"
               class="w-32 h-32 rounded-full mx-auto mb-4"
             />
+            </a>
             <h3 class="text-lg font-semibold mb-2">DxSale</h3>
             {/* <p class="text-gray-600">Lead Designer</p> */}
           </div>
