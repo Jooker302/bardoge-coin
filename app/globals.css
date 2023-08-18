@@ -33,7 +33,7 @@
   animation: pulsate 2s infinite;
 }
 
-p, a{
+p, a, h2, h3{
   color: white;
 }
 
