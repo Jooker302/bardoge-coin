@@ -32,3 +32,12 @@
 .animated-image {
   animation: pulsate 2s infinite;
 }
+
+p, a{
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
