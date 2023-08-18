@@ -100,10 +100,10 @@ export default function Home() {
           </div>
           <div class="p-4">
             <h2 class="text-xl font-bold mb-2 mt-4">
-              Estimated Launch Date
+               FairLaunch Date
             </h2>
             <p class="font-semibold">
-              Bardoge is going to launch on August 17, 2023
+              Bardoge is going to fairlaunch on August 23, 2023
             </p>
           </div>
         </div>
