@@ -70,7 +70,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div class="flex justify-center py-8 flex-wrap">
+      <div id="boxes" class="md:mt-10 mt-6 flex justify-center py-8 flex-wrap">
         <div class="w-full md:w-1/4 my-6 md:my-0 bg-white shadow-md rounded-lg md:mx-4">
           <div class="relative">
             <img
@@ -116,6 +116,14 @@ export default function Home() {
             <p class="text-gray-600">Bardoge token symbol is $BDOGE</p>
           </div>
         </div>
+      </div>
+
+      <div className=" flex items-center justify-center">
+        <img
+          src="/cover.jpeg"
+          alt="Pulsating Image"
+          className="animated-image"
+        />
       </div>
     </>
   );
